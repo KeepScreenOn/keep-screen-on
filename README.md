@@ -1,5 +1,11 @@
 # Keep Screen On
 
+<p align="center">
+  <a href="https://keep-screen-on.com">
+    <img src="./logo.png" alt="Keep Screen On logo" width="96" height="96" />
+  </a>
+</p>
+
 <h1 align="center">Keep Screen On</h1>
 
 <p align="center">
@@ -23,6 +29,12 @@
   <img alt="No install" src="https://img.shields.io/badge/no-installation-6366F1?style=flat-square" />
   <img alt="Browser based" src="https://img.shields.io/badge/browser-based-E85A4F?style=flat-square" />
   <img alt="Privacy friendly" src="https://img.shields.io/badge/privacy-friendly-F59E0B?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://keep-screen-on.com">
+    <img src="./home.png" alt="Keep Screen On homepage screenshot" width="960" />
+  </a>
 </p>
 
 ## What is Keep Screen On?
