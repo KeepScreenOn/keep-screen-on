@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <a href="./README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <a href="https://keep-screen-on.com">Website</a>
   ·
   <a href="https://keep-screen-on.com/no-sleep-page">No Sleep Page</a>
